@@ -5,7 +5,7 @@ export default function page() {
     <div class=" px-5 max-w-6xl mx-auto sm:flex">
       <div class="sm:w-1/2 p-10">
           <div class="image object-center text-center">
-              <img className="rounded shadow-md" src="https://img.freepik.com/premium-vector/film-projector-poster_602006-4023.jpg"/>
+              <img className="rounded shadow-md" src="/image.png"/>
           </div>
       </div>
       <div class="sm:w-1/2 p-5 mt-5">

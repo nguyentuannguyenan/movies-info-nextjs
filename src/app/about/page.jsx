@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function page() {
+export default function Page() {
   return (
     <div class=" px-5 max-w-6xl mx-auto sm:flex">
       <div class="sm:w-1/2 p-10">
